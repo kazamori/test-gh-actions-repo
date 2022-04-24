@@ -17,3 +17,5 @@ The link information would be below the previous Pull Request link when another 
 ![](https://github.com/kazamori/test-gh-actions-repo/raw/main/example/pulls/figures/backlog-issue-description2.png)
 
 ## Push
+
+![](https://github.com/kazamori/test-gh-actions-repo/raw/main/example/push/figures/backlog-issue-comments2.png)
